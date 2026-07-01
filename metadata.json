@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "Smart personal finance and collaborative expense tracking for students, featuring AI insights, custom budget alerts, recurring bill reminders, and group split bills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
